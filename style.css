@@ -1,0 +1,70 @@
+.container{
+    text-align: center;
+    margin-top: 65px;
+}
+table{
+    margin:auto;
+}
+input{
+    border-radius: 21px;
+    border:5px solid #244624;
+    font-size:34px;
+}
+button{
+    font-size: 40px;
+    background-color:#978fa0;
+    width:102px;
+    height: 58px;
+    border-radius: 20px;
+}
+.calculator{
+    background-color: #b9ff99;
+    padding: 23px;
+    border-radius: 53px;
+    display:inline-block;
+}
+
+h1{
+    font-family:italic;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: rgba(11, 9, 12, 0.315);
+    border-radius: 10px;
+  }
+  
+  .topnav a {
+    float:left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: rgba(102, 235, 25, 0.219);
+    color: rgb(17, 17, 14);
+    border-radius:25px;
+  }
+  
+  .topnav a.active {
+    background-color: #85833fa6;
+    color: rgba(252, 247, 247, 0.61);
+    border-radius: 25px;
+  }
+ 
+  
+  .active{
+      margin-left:10px;
+      margin-right:0px;
+  }
+  
+
+body {
+    height: 70vh;
+    background-image: url(BGC_IMAGE.jpg);
+    background-size: cover; /* Add this line */
+}
+
